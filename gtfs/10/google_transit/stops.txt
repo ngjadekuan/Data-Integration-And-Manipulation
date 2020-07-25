@@ -1,0 +1,5 @@
+﻿stop_id,stop_name,stop_lat,stop_lon
+"23173","Skybus Coach Terminal/Spencer St (Melbourne City)","-37.8164829105554","144.952814580226"
+"45511","Melbourne Airport T1 Skybus/Arrival Dr (Melbourne Airport)","-37.6693515659067","144.850805040928"
+"45513","Melbourne Airport T3 Skybus/Arrival Dr (Melbourne Airport)","-37.6712619542574","144.848822563648"
+"48578","Melbourne Airport T4 Skybus/Service Rd (Melbourne Airport)","-37.6722961992977","144.849200845916"

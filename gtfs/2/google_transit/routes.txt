@@ -1,0 +1,8 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+"7-TB1-mjp-1","","TeleBus 1","Lilydale Station - Chirnside Park SC","3","FF8200","FFFFFF"
+"7-TB2-mjp-1","","TeleBus 2","Mooroolbark Station - Chirnside Park SC","3","FF8200","FFFFFF"
+"7-TB3-mjp-1","","TeleBus 3","Mooroolbark Station - Chirnside Park SC","3","FF8200","FFFFFF"
+"7-TB4-mjp-1","","TeleBus 4","Mooroolbark Station - Croydon Station","3","FF8200","FFFFFF"
+"7-TB7-mjp-1","","TeleBus 7","Ferntree Gully Station - Stud Park","3","FF8200","FFFFFF"
+"7-TB8-mjp-1","","TeleBus 8","Ferntree Gully Station - Stud Park","3","FF8200","FFFFFF"
+"7-TB9-mjp-1","","TeleBus 9","Stud Park","3","FF8200","FFFFFF"
